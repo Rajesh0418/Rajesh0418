@@ -17,7 +17,7 @@ I work with Java Full stack, Spring boot, Hibernate, Python, C programming, Java
 ![Java](https://img.shields.io/badge/Java-orange?logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?logo=springboot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-brown?logo=hibernate)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Python](https://img.shields.io/badge/Python?logo=python)
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5)
